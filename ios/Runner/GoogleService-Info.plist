@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+<<<<<<< HEAD
+	<string>129927534050-b1m4b343m65knnp8524bn0pdel3ql9f6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129927534050-b1m4b343m65knnp8524bn0pdel3ql9f6</string>
+=======
+	<string>129927534050-ov004222cejnt1h2fmt9642u54qn8vpo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129927534050-ov004222cejnt1h2fmt9642u54qn8vpo</string>
+>>>>>>> 090a20e54ad7da787bcc133c15f017b23287c2b6
+	<key>ANDROID_CLIENT_ID</key>
+	<string>129927534050-58qudbdkdatitre863o965pk69rtcur7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRECSFz9MgWbLpzQYGTTY0SduqpN5DD8s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129927534050</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.faruk.hospital</string>
+	<key>PROJECT_ID</key>
+	<string>everisamting-235ef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>everisamting-235ef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129927534050:ios:06b1c3fc5a7e9cfe1055bb</string>
+</dict>
+</plist>
